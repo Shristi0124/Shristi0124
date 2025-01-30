@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shristi0124" alt="shristi0124" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub]([GitHub](https://github.com/Shristi0124?tab=repositories))
 
-- 📝 I regularly write articles on [GitHub](GitHub)
+- 📝 I regularly write articles on [GitHub]([GitHub](https://github.com/Shristi0124?tab=repositories))
 
 - 📫 How to reach me **shristishristi59@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](LinkedIn)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shristi-51826b249/)
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
