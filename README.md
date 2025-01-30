@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shristi0124" alt="shristi0124" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub]((https://github.com/Shristi0124?tab=repositories))
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Shristi0124?tab=repositories)
 
-- 📝 I regularly write articles on [GitHub]((https://github.com/Shristi0124?tab=repositories))
+- 📝 I regularly write articles on [GitHub](https://github.com/Shristi0124?tab=repositories)
 
 - 📫 How to reach me **shristishristi59@gmail.com**
 
