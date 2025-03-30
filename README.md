@@ -36,5 +36,8 @@
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shristi0124&" alt="shristi0124" /></p>
 
+### Visits till now!
+
+![Visitor Count](https://profile-counter.glitch.me/Shristi0124/count.svg) 
 
 
